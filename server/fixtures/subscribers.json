@@ -1,0 +1,37 @@
+[
+{
+    "model": "mail.subscriber",
+    "pk": 2,
+    "fields": {
+        "email": "mail1@gmail.com"
+    }
+},
+{
+    "model": "mail.subscriber",
+    "pk": 3,
+    "fields": {
+        "email": "mail2@gmail.com"
+    }
+},
+{
+    "model": "mail.subscriber",
+    "pk": 4,
+    "fields": {
+        "email": "mail3@gmail.com"
+    }
+},
+{
+    "model": "mail.subscriber",
+    "pk": 5,
+    "fields": {
+        "email": "mail4@gmail.com"
+    }
+},
+{
+    "model": "mail.subscriber",
+    "pk": 6,
+    "fields": {
+        "email": "mail5@gmail.com"
+    }
+}
+]
